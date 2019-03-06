@@ -1,2 +1,2 @@
 # node-api
-API REST com Node.js e Sequelize
+API REST com Node.js, Sequelize e Appmetrics Dash
