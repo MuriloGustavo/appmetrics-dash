@@ -1,0 +1,23 @@
+{
+  "name": "appmetrics-dash",
+  "version": "1.0.0",
+  "description": "API REST com Node.js, Sequelize e Appmetrics Dash",
+  "main": "server.js",
+  "scripts": {
+    "start": "babel-node ./server.js"
+  },
+  "author": "Murilo G.",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-node6": "^11.0.0"
+  },
+  "dependencies": {
+    "appmetrics-dash": "^4.1.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.4"
+  }
+}
